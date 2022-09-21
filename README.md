@@ -1,12 +1,12 @@
 # Hi there 👋
 
-## About me
+## :star: About me
 
 💬 My name is Damian Skwierawski and I'm currently a Codecool student.
 
 🔭 In my repository you can find some project that I've been working on.
 
-## Technology stack
+## :star: Technology stack
 <div align="left">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
