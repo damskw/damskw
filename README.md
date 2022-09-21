@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 💬 My name is Damian Skwierawski and I'm currently a Codecool student.
 
