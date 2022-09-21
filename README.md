@@ -22,6 +22,10 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" />
 </div>
 
+## :mailbox: Contact
+damian.skwierawski@gmail.com
+https://www.linkedin.com/in/damian-skwierawski-6340b7251
+
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
