@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 My name is Damian Skwierawski and I'm currently a Codecool student.
+
+🔭 In my repository you can find some project that I've been working on.
+
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
