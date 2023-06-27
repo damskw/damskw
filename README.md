@@ -2,7 +2,7 @@
 
 ## :star: About me
 
-💬 My name is Damian Skwierawski and Junior Full Stack Java Developer.
+💬 My name is Damian Skwierawski and I'm a Junior Full Stack Java Developer.
 
 🔭 In my repository you can find some project that I've been working on.
 
@@ -17,7 +17,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
-	<img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" title="Java" />
+	<img height="50" src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="Java" title="Java" />
 	
 </div>
 
