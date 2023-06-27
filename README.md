@@ -17,7 +17,7 @@ Considering hard skills I feel the most confident in back-end areas which may mo
 
 ## :star: Technology stack
 <div align="left">
-	<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css,docker,figma,flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring&theme=dark" alt="Java" title="Java" />
+	<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css,docker,figma,flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring&theme=dark"/>
 </div>
 
 ## :mailbox: Contact
