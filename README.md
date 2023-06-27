@@ -2,7 +2,14 @@
 
 ## :star: About me
 
-💬 My name is Damian Skwierawski and I'm a Junior Full Stack Java Developer.
+💬 My name is Damian Skwierawski and I'm a Junior Full Stack Java Developer candidate.
+
+🌱 I'm an IT enthusiast and English studies graduate which also happen to be my passion and hobby among many others which may include skiing and linguistics. 
+
+🤔 I consider myself meticulous and purposeful person on a self-development journey prepared to faced lots of challenges. On my journey I've already encountered many ups and downs but those downs motivate me the most.
+One of my personality traits is also curiosity and I like to do background research on many matters to get to the bottom of it so I can understand it fully.
+
+⚡ In 2023 I've graduated from Codecool's Full Stack Developer course which has been a great foundation for both of my hard and soft skills.
 
 🔭 In my repository you can find some project that I've been working on.
 
