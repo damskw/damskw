@@ -10,6 +10,7 @@
 One of my personality traits is also curiosity and I like to do background research on many matters to get to the bottom of it so I can understand it fully.
 
 ⚡ In 2023 I've graduated from Codecool's Full Stack Developer course which has been a great foundation for both of my hard and soft skills.
+In those hard skills I feel the most confident in back-end areas which may mostly include Java, Spring and Hibernate.
 
 🔭 In my repository you can find some project that I've been working on.
 
