@@ -10,7 +10,8 @@
 One of my personality traits is also curiosity and I like to do background research on many matters to get to the bottom of it so I can understand it fully.
 
 ⚡ In 2023 I've graduated from Codecool's Full Stack Developer course which has been a great foundation for both of my hard and soft skills.
-In those hard skills I feel the most confident in back-end areas which may mostly include Java, Spring and Hibernate.
+Regarding soft skills I've managed to gather experience in team work and self-presentation which may also involve communication, working under pressure, problem solving and many others.
+Considering hard skills I feel the most confident in back-end areas which may mostly include Java, Spring and Hibernate.
 
 🔭 In my repository you can find some project that I've been working on.
 
@@ -20,8 +21,10 @@ In those hard skills I feel the most confident in back-end areas which may mostl
 </div>
 
 ## :mailbox: Contact
-damian.skwierawski@gmail.com <br />
-https://www.linkedin.com/in/damian-skwierawski-6340b7251
+Feel free to reach me and ask me anything using:
+
+E-mail: damian.skwierawski@gmail.com <br />
+LinkedIn: https://www.linkedin.com/in/damian-skwierawski-6340b7251
 
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
