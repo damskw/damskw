@@ -23,7 +23,7 @@
 </div>
 
 ## :mailbox: Contact
-damian@skwierawski.dev <br />
+damian.skwierawski@gmail.com <br />
 https://www.linkedin.com/in/damian-skwierawski-6340b7251
 
 <!--
