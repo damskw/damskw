@@ -24,7 +24,7 @@ Considering hard skills I feel the most confident in back-end areas which may mo
 Feel free to reach me and ask me anything using:
 
 E-mail: damian.skwierawski@gmail.com <br />
-LinkedIn: https://www.linkedin.com/in/damian-skwierawski-6340b7251
+LinkedIn: https://www.linkedin.com/in/damian-skwierawski/
 
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
