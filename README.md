@@ -2,7 +2,7 @@
 
 ## :star: About me
 
-💬 My name is Damian Skwierawski and I'm a Junior Full Stack Developer.
+💬 My name is Damian Skwierawski and I'm a Junior Java Developer.
 
 🌱 I'm an IT enthusiast and English studies graduate which also happen to be my passion and hobby among many others which may include skiing and linguistics. 
 
