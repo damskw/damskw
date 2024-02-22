@@ -7,7 +7,9 @@
 🌱 I'm an IT enthusiast and English studies graduate which also happen to be my passion and hobby among many others which may include skiing and linguistics. 
 
 🤔 I consider myself meticulous and purposeful person on a self-development journey prepared to face lots of challenges. On my journey I've already encountered many ups and downs but those downs motivate me the most.
-One of my personality traits is also curiosity and I like to do background research on many matters to get to the bottom of it so I can understand it fully.
+As an IT enthusiast, I thrive on challenges and am on a continuous journey of self-development. My meticulous nature and curiosity drive me to delve deep into subjects, ensuring a thorough understanding.
+
+🚀 I'm constantly seeking opportunities to expand my skill set and contribute meaningfully to the world of technology. Whether it's through refining existing projects or diving into new ones, I'm committed to delivering high-quality solutions and constant improvement.
 
 🔭 In my repository you can find some project that I've been working on.
 
