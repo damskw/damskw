@@ -19,9 +19,9 @@ One of my personality traits is also curiosity and I like to do background resea
 ## :mailbox: Contact
 Feel free to reach me and ask me anything using:
 
-E-mail: damian.skwierawski@gmail.com <br />
-LinkedIn: https://www.linkedin.com/in/damian-skwierawski/ <br />
-upwork: https://www.upwork.com/freelancers/~01d57dcf756a1a34dd?mp_source=share
+- **Email**: damian.skwierawski@gmail.com
+- **LinkedIn**: [Damian Skwierawski - LinkedIn](https://www.linkedin.com/in/damian-skwierawski/)
+- **upwork**: [Damian Skwierawski - upwork](https://www.upwork.com/freelancers/~01d57dcf756a1a34dd?mp_source=share)
 
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
