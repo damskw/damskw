@@ -2,7 +2,7 @@
 
 ## :star: About me
 
-💬 My name is Damian Skwierawski and I'm a Full Stack Engineer.
+💬 My name is Damian Lagua and I'm a Full Stack Engineer.
 
 🌱 I'm an IT enthusiast and English studies graduate which also happen to be my passion and hobby among many others which may include skiing and linguistics. 
 
@@ -22,8 +22,8 @@ As an IT enthusiast, I thrive on challenges and am on a continuous journey of se
 Feel free to reach me and ask me anything using:
 
 - **Email**: damian.skwierawski@gmail.com
-- **LinkedIn**: [Damian Skwierawski - LinkedIn](https://www.linkedin.com/in/damian-skwierawski/)
-- **upwork**: [Damian Skwierawski - upwork](https://www.upwork.com/freelancers/~01d57dcf756a1a34dd?mp_source=share)
+- **LinkedIn**: [Damian Lagua - LinkedIn](https://www.linkedin.com/in/damian-skwierawski/)
+- **upwork**: [Damian Lagua - upwork](https://www.upwork.com/freelancers/~01d57dcf756a1a34dd?mp_source=share)
 
 <!--
 **damskw/damskw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
