@@ -15,7 +15,7 @@ As an IT enthusiast, I thrive on challenges and am on a continuous journey of se
 
 ## :star: Technology stack
 <div align="left">
-	<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css,docker,figma,flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring&theme=dark"/>
+	<img height="100" src="https://skillicons.dev/icons?i=bootstrap,css,docker,figma,flask,git,github,heroku,hibernate,html,java,js,maven,postgres,postman,powershell,py,react,spring,aws,ts&theme=dark"/>
 </div>
 
 ## :mailbox: Contact
