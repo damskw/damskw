@@ -21,7 +21,7 @@ As an IT enthusiast, I thrive on challenges and am on a continuous journey of se
 ## :mailbox: Contact
 Feel free to reach me and ask me anything using:
 
-- **Email**: damian.skwierawski@gmail.com
+- **Email**: damian.lagua@yahoo.com
 - **LinkedIn**: [Damian Lagua - LinkedIn](https://www.linkedin.com/in/damian-lagua/)
 - **upwork**: [Damian Lagua - upwork](https://www.upwork.com/freelancers/~01d57dcf756a1a34dd?mp_source=share)
 
